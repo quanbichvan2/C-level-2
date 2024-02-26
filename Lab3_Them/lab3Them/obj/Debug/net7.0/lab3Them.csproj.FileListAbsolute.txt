@@ -1,0 +1,15 @@
+E:\FPT\C#2\BT\Lab3_Them\lab3Them\bin\Debug\net7.0\lab3Them.exe
+E:\FPT\C#2\BT\Lab3_Them\lab3Them\bin\Debug\net7.0\lab3Them.deps.json
+E:\FPT\C#2\BT\Lab3_Them\lab3Them\bin\Debug\net7.0\lab3Them.runtimeconfig.json
+E:\FPT\C#2\BT\Lab3_Them\lab3Them\bin\Debug\net7.0\lab3Them.dll
+E:\FPT\C#2\BT\Lab3_Them\lab3Them\bin\Debug\net7.0\lab3Them.pdb
+E:\FPT\C#2\BT\Lab3_Them\lab3Them\obj\Debug\net7.0\lab3Them.csproj.AssemblyReference.cache
+E:\FPT\C#2\BT\Lab3_Them\lab3Them\obj\Debug\net7.0\lab3Them.GeneratedMSBuildEditorConfig.editorconfig
+E:\FPT\C#2\BT\Lab3_Them\lab3Them\obj\Debug\net7.0\lab3Them.AssemblyInfoInputs.cache
+E:\FPT\C#2\BT\Lab3_Them\lab3Them\obj\Debug\net7.0\lab3Them.AssemblyInfo.cs
+E:\FPT\C#2\BT\Lab3_Them\lab3Them\obj\Debug\net7.0\lab3Them.csproj.CoreCompileInputs.cache
+E:\FPT\C#2\BT\Lab3_Them\lab3Them\obj\Debug\net7.0\lab3Them.dll
+E:\FPT\C#2\BT\Lab3_Them\lab3Them\obj\Debug\net7.0\refint\lab3Them.dll
+E:\FPT\C#2\BT\Lab3_Them\lab3Them\obj\Debug\net7.0\lab3Them.pdb
+E:\FPT\C#2\BT\Lab3_Them\lab3Them\obj\Debug\net7.0\lab3Them.genruntimeconfig.cache
+E:\FPT\C#2\BT\Lab3_Them\lab3Them\obj\Debug\net7.0\ref\lab3Them.dll

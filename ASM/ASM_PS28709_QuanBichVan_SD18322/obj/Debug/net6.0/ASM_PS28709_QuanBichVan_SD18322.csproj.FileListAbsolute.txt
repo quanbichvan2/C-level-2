@@ -1,0 +1,15 @@
+/Users/panda/Documents/C#/BT/ASM/ASM_PS28709_QuanBichVan_SD18322/bin/Debug/net6.0/ASM_PS28709_QuanBichVan_SD18322
+/Users/panda/Documents/C#/BT/ASM/ASM_PS28709_QuanBichVan_SD18322/bin/Debug/net6.0/ASM_PS28709_QuanBichVan_SD18322.deps.json
+/Users/panda/Documents/C#/BT/ASM/ASM_PS28709_QuanBichVan_SD18322/bin/Debug/net6.0/ASM_PS28709_QuanBichVan_SD18322.runtimeconfig.json
+/Users/panda/Documents/C#/BT/ASM/ASM_PS28709_QuanBichVan_SD18322/bin/Debug/net6.0/ASM_PS28709_QuanBichVan_SD18322.dll
+/Users/panda/Documents/C#/BT/ASM/ASM_PS28709_QuanBichVan_SD18322/bin/Debug/net6.0/ASM_PS28709_QuanBichVan_SD18322.pdb
+/Users/panda/Documents/C#/BT/ASM/ASM_PS28709_QuanBichVan_SD18322/obj/Debug/net6.0/ASM_PS28709_QuanBichVan_SD18322.csproj.AssemblyReference.cache
+/Users/panda/Documents/C#/BT/ASM/ASM_PS28709_QuanBichVan_SD18322/obj/Debug/net6.0/ASM_PS28709_QuanBichVan_SD18322.GeneratedMSBuildEditorConfig.editorconfig
+/Users/panda/Documents/C#/BT/ASM/ASM_PS28709_QuanBichVan_SD18322/obj/Debug/net6.0/ASM_PS28709_QuanBichVan_SD18322.AssemblyInfoInputs.cache
+/Users/panda/Documents/C#/BT/ASM/ASM_PS28709_QuanBichVan_SD18322/obj/Debug/net6.0/ASM_PS28709_QuanBichVan_SD18322.AssemblyInfo.cs
+/Users/panda/Documents/C#/BT/ASM/ASM_PS28709_QuanBichVan_SD18322/obj/Debug/net6.0/ASM_PS28709_QuanBichVan_SD18322.csproj.CoreCompileInputs.cache
+/Users/panda/Documents/C#/BT/ASM/ASM_PS28709_QuanBichVan_SD18322/obj/Debug/net6.0/ASM_PS28709_QuanBichVan_SD18322.dll
+/Users/panda/Documents/C#/BT/ASM/ASM_PS28709_QuanBichVan_SD18322/obj/Debug/net6.0/refint/ASM_PS28709_QuanBichVan_SD18322.dll
+/Users/panda/Documents/C#/BT/ASM/ASM_PS28709_QuanBichVan_SD18322/obj/Debug/net6.0/ASM_PS28709_QuanBichVan_SD18322.pdb
+/Users/panda/Documents/C#/BT/ASM/ASM_PS28709_QuanBichVan_SD18322/obj/Debug/net6.0/ASM_PS28709_QuanBichVan_SD18322.genruntimeconfig.cache
+/Users/panda/Documents/C#/BT/ASM/ASM_PS28709_QuanBichVan_SD18322/obj/Debug/net6.0/ref/ASM_PS28709_QuanBichVan_SD18322.dll

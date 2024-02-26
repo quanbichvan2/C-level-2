@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{F095F6EC-2D62-4BE7-9B76-2E4361D09717}|Default">
+  <MonoDevelop.Ide.ItemProperties.ASM__PS28709__QuanBichVan__SD18322 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Models/QuanLySV..cs">
+    <Files>
+      <File FileName="Program.cs" Line="61" Column="41" />
+      <File FileName="Models/SinhVien.cs" Line="18" Column="16" />
+      <File FileName="Models/QuanLySV..cs" Line="37" Column="31" />
+      <File FileName="UI/Context.cs" Line="34" Column="75" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ASM_PS28709_QuanBichVan_SD18322" expanded="True">
+            <Node name="ASM_PS28709_QuanBichVan_SD18322" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="QuanLySV..cs" selected="True" />
+              </Node>
+              <Node name="UI" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

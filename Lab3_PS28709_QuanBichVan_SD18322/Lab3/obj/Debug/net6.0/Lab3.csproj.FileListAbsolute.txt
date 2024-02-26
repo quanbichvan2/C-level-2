@@ -1,0 +1,15 @@
+E:\FPT\C#2\BT\Lab3_PS28709_QuanBichVan_SD18322\Lab3\bin\Debug\net6.0\Lab3.exe
+E:\FPT\C#2\BT\Lab3_PS28709_QuanBichVan_SD18322\Lab3\bin\Debug\net6.0\Lab3.deps.json
+E:\FPT\C#2\BT\Lab3_PS28709_QuanBichVan_SD18322\Lab3\bin\Debug\net6.0\Lab3.runtimeconfig.json
+E:\FPT\C#2\BT\Lab3_PS28709_QuanBichVan_SD18322\Lab3\bin\Debug\net6.0\Lab3.dll
+E:\FPT\C#2\BT\Lab3_PS28709_QuanBichVan_SD18322\Lab3\bin\Debug\net6.0\Lab3.pdb
+E:\FPT\C#2\BT\Lab3_PS28709_QuanBichVan_SD18322\Lab3\obj\Debug\net6.0\Lab3.csproj.AssemblyReference.cache
+E:\FPT\C#2\BT\Lab3_PS28709_QuanBichVan_SD18322\Lab3\obj\Debug\net6.0\Lab3.GeneratedMSBuildEditorConfig.editorconfig
+E:\FPT\C#2\BT\Lab3_PS28709_QuanBichVan_SD18322\Lab3\obj\Debug\net6.0\Lab3.AssemblyInfoInputs.cache
+E:\FPT\C#2\BT\Lab3_PS28709_QuanBichVan_SD18322\Lab3\obj\Debug\net6.0\Lab3.AssemblyInfo.cs
+E:\FPT\C#2\BT\Lab3_PS28709_QuanBichVan_SD18322\Lab3\obj\Debug\net6.0\Lab3.csproj.CoreCompileInputs.cache
+E:\FPT\C#2\BT\Lab3_PS28709_QuanBichVan_SD18322\Lab3\obj\Debug\net6.0\Lab3.dll
+E:\FPT\C#2\BT\Lab3_PS28709_QuanBichVan_SD18322\Lab3\obj\Debug\net6.0\refint\Lab3.dll
+E:\FPT\C#2\BT\Lab3_PS28709_QuanBichVan_SD18322\Lab3\obj\Debug\net6.0\Lab3.pdb
+E:\FPT\C#2\BT\Lab3_PS28709_QuanBichVan_SD18322\Lab3\obj\Debug\net6.0\Lab3.genruntimeconfig.cache
+E:\FPT\C#2\BT\Lab3_PS28709_QuanBichVan_SD18322\Lab3\obj\Debug\net6.0\ref\Lab3.dll

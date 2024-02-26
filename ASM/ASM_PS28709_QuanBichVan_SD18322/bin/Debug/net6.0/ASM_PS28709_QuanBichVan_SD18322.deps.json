@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ASM_PS28709_QuanBichVan_SD18322/1.0.0": {
+        "runtime": {
+          "ASM_PS28709_QuanBichVan_SD18322.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ASM_PS28709_QuanBichVan_SD18322/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
